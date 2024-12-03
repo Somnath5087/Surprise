@@ -75,7 +75,7 @@
                     <!-- Image Centered -->
                     <img src="Preethi.JPG" alt="Preethi's Picture" class="img-fluid">
                     <p>
-                        To my biggest blessing, the strongest, the most beautiful girl I know! You inspire me every single day with your courage and resilience. I promise to always stand by your side, cheering you on in everything you do. Here's to celebrating you today and always!
+                        To my biggest blessing, the strongest, the most beautiful girl I know! You inspire me every single day with your courage and resilience. I promise to always stand by your side, cheering you on in everything you do. Here's to celebrating you today and always! <br> I know you are upset, I can feel your pain, <br> But I hope your smile will shine again!
                     </p>
                     <h2>Happy Birthday my <br> Vitamin P!!</h2>
                     <h1 class="heart">❤️</h1>
